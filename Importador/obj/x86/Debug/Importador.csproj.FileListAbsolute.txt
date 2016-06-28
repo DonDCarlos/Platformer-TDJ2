@@ -109,3 +109,82 @@ C:\Users\Windows\Desktop\PlatformGame-TDJ\Importador\bin\DesktopGL\x86\Debug\Con
 C:\Users\Windows\Desktop\PlatformGame-TDJ\Importador\bin\DesktopGL\x86\Debug\Content\Mario Jump - Sound Effect.xnb
 C:\Users\Windows\Desktop\PlatformGame-TDJ\Importador\bin\DesktopGL\x86\Debug\Content\Mario Jump - Sound Effect.wav
 C:\Users\Windows\Desktop\PlatformGame-TDJ\Importador\bin\DesktopGL\x86\Debug\Content\coin.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\obj\x86\Debug\Importador.exe
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\obj\x86\Debug\Importador.pdb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\1 - Cópia.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\1-18 Everyday Fantasy.ogg
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\1-18 Everyday Fantasy.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\1.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\10.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\11.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\12.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\13.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\14.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\15.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\16.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\17.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\18.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\2 - Cópia.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\2.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\3 - Cópia.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\3.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\3spikes.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\4 - Cópia.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\4.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\5 - Cópia.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\5.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\6 - Cópia.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\6.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\7 - Cópia.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\7.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\8 - Cópia.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\8.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\9 - Cópia.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\9.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Bush1.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Bush2.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\bush3.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Bush4.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\character.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\coin.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Crate.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\enemy.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Mario Jump - Sound Effect.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Mushroom1.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Mushroom2.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\player.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Sign1.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Sign2.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Stone.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Tree1.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Tree2.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Tree3.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\1-18 Everyday Fantasy.mp3
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\3spikes.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Bush1.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Bush2.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Bush4.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\character.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Crate.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\enemy.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Mario Jump - Sound Effect.wav
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Mushroom1.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Mushroom2.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Sign1.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Sign2.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Stone.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Tree1.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Tree2.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\Tree3.png
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\ArialBlack_20.xnb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\MainScene1.json
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Content\MainScene2.json
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Importador.exe
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Importador.pdb
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\bin\DesktopGL\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Windows\Desktop\Platformer TDJ2\Platformer-TDJ2\Importador\obj\x86\Debug\Importador.csprojResolveAssemblyReference.cache

@@ -145,11 +145,8 @@ namespace Importador
                 {
                     player.totaltimer = 0;
                     timer = 0;
+                    nlvl = 1;
                 }
-                //if (Player.isFinish && nlvl == 2)
-                //{
-                //    win = true;
-                //}
                 Initialize();
             }
 

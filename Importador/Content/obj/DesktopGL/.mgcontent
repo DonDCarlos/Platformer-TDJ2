@@ -4,52 +4,52 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/1.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/2.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/3.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/4.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/5.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/6.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/7.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/8.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/9.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/10.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/11.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/12.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/13.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/14.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/15.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/16.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/17.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/18.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/player.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/bush3.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/1 - Cópia.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/2 - Cópia.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/3 - Cópia.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/3spikes.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/4 - Cópia.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/5 - Cópia.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/6 - Cópia.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/7 - Cópia.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/8 - Cópia.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/9 - Cópia.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Bush1.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Bush2.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Bush4.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Crate.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/enemy.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Mushroom1.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Mushroom2.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Sign1.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Sign2.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Stone.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Tree1.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Tree2.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Tree3.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/1-18 Everyday Fantasy.mp3</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/character.png</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/Mario Jump - Sound Effect.wav</File>
-    <File>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/coin.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/1.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/2.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/3.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/4.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/5.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/6.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/7.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/8.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/9.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/10.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/11.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/12.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/13.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/14.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/15.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/16.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/17.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/18.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/player.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/bush3.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/1 - Cópia.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/2 - Cópia.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/3 - Cópia.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/3spikes.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/4 - Cópia.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/5 - Cópia.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/6 - Cópia.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/7 - Cópia.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/8 - Cópia.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/9 - Cópia.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Bush1.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Bush2.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Bush4.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Crate.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/enemy.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Mushroom1.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Mushroom2.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Sign1.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Sign2.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Stone.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Tree1.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Tree2.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Tree3.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/1-18 Everyday Fantasy.mp3</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/character.png</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/Mario Jump - Sound Effect.wav</File>
+    <File>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/coin.png</File>
   </SourceFiles>
 </SourceFileCollection>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/player.png</SourceFile>
+  <SourceFile>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/player.png</SourceFile>
   <SourceTime>2016-04-12T14:44:50.0842249+01:00</SourceTime>
-  <DestFile>C:/Users/Windows/Desktop/PlatformGame-TDJ/Importador/Content/bin/DesktopGL/player.xnb</DestFile>
-  <DestTime>2016-06-20T12:32:18.871756+01:00</DestTime>
+  <DestFile>C:/Users/Windows/Desktop/Platformer TDJ2/Platformer-TDJ2/Importador/Content/bin/DesktopGL/player.xnb</DestFile>
+  <DestTime>2016-06-28T09:26:32.8814548+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2016-03-30T07:36:08+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
