@@ -19,17 +19,15 @@ namespace Importador
             string imagename, Vector2 position, Player player) :
             base(content, imagename, position)
         {
-            this.position.X += 1.5f;
             eplayer = player;
         }
 
         public void Update(GameTime gameTime)
         {
-            velocityY += accelerationY *
-                (float)gameTime.ElapsedGameTime.TotalSeconds;
+            velocityY += accelerationY * (float)gameTime.ElapsedGameTime.TotalSeconds;
             Vector2 targete = position;
             targete.Y += velocityY;
-            Vector2 targetp = eplayer.GetPosition();
+            Vector2 targetp;
             updateBoundingBox(targete);
 
             List<Sprite> colSprites = collides();
@@ -37,12 +35,10 @@ namespace Importador
 
             if (colSprites.Count == 0)
             {
-                // nenhuma colisao
                 position = targete;
             }
             else
             {
-                // Posicao passa a ser baseada na colisao mais acima (com topo minimo)
                 position.Y = colSprites.Min(sprite => sprite.bbox.Top) - bbox.Height;
                 velocityY = 0f;
             }

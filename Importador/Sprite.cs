@@ -73,6 +73,16 @@ namespace Importador
             return Game1.spikes.Where(el => Intersects(el)).ToList();
         }
 
+        protected List<Sprite> collidesign()
+        {
+            return Game1.placa.Where(el => Intersects(el)).ToList();
+        }
+
+        protected List<Sprite> collidef()
+        {
+            return Game1.fim.Where(el => Intersects(el)).ToList();
+        }
+
         // Intersects bounding boxes?
         protected bool Intersects(Sprite other)
         {
@@ -115,10 +125,6 @@ namespace Importador
                         {
                             if (yours.At(xl, yl).A != 0) // ----------------------
                             {
-                                if (other.name == "sign2" && name == "player")
-                                {
-                                    Game1.nlvl += 1;
-                                }
                                 return true;
                             }                               
                         }
